@@ -1,3 +1,11 @@
+---
+name: Ask question
+about: 向我提出你学习过程中的疑问或者难题
+title: "Question: 简明的标题"
+labels: ""
+assignees: ""
+---
+
 ## 正在学习的内容
 
 <!-- 给出你正在学习的课程视频链接。非课程内问题，请单独说明。 -->
