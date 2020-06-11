@@ -1,5 +1,5 @@
 {
-  "name": "fed-e-002",
+  "name": "fed-e-001",
   "version": "0.1.0",
   "description": "Front-end development enhanced course notes by LagouEdu",
   "keywords": [
@@ -8,13 +8,13 @@
     "LagouEdu",
     "Front-end"
   ],
-  "homepage": "https://gitee.com/lagoufed/fed-e-002#readme",
+  "homepage": "https://github.com/lagoufed/fed-e-001#readme",
   "bugs": {
-    "url": "https://gitee.com/lagoufed/fed-e-002/issues"
+    "url": "https://github.com/lagoufed/fed-e-001/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/lagoufed/fed-e-002.git"
+    "url": "git+https://github.com/lagoufed/fed-e-001.git"
   },
   "license": "MIT",
   "author": {
