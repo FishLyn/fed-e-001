@@ -4,9 +4,11 @@
 
 每个作业单独创建一个 Git 仓库，可以选择托管到 [Gitee](https://gitee.com) 或者 [GitHub](https://github.com)。
 
+> P.S. 由于最近国内访问 GitHub 偶尔「抽风」，为了提高大家的效率，建议采用 Gitee.com
+
 在学习中心将仓库链接地址提交：
 
-![](https://images.gitee.com/uploads/images/2020/0608/141842_73c77860_66159.png)
+![](https://user-images.githubusercontent.com/6166576/81797740-c3e1f600-9541-11ea-867d-5072c0dfe671.png)
 
 ## 提交内容要求
 
