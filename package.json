@@ -38,10 +38,7 @@
     ]
   },
   "lint-staged": {
-    "*.md": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.md": "prettier --write"
   },
   "config": {
     "commitizen": {
